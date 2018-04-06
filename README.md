@@ -33,7 +33,7 @@ SVG Output - (1k)
 
 ![powerline-bg-color-touch.svg](powerline-bg-color-touch.svg)
 
-PNG Screenshot from iTerm2 - (~88k @ ~retina-res: ~2800x~140px)
+PNG Screenshot from iTerm2 - (\~88k @ \~retina-res: \~2800x\~140px)
 
 ![powerline-bg-color-touch-screenshot.png](powerline-bg-color-touch-screenshot.png)
 
