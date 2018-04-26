@@ -61,3 +61,10 @@ Attempting to provide font around SVG. WIll not work as SVG is an image tag.
 
 <span style="font-family: Courier; font-size: 14px;"><img src="./ansi-to-svg-no-font.svg"/></span>
 	
+## Embedded Animation
+
+### Mario Sprite
+
+Source: https://codepen.io/shshaw/pen/WvYJQP
+
+<img src="./mario.svg" width="100px"/>
