@@ -71,4 +71,10 @@ Source: https://codepen.io/shshaw/pen/WvYJQP
 
 ## Embedded Image
 
+Does not work. Maybe this only works with absolute. But I'd bet it fails dues to security restrictions.
+
 <img src="./embed-image.svg" width="100px"/>
+
+## Embedded SVG Font
+
+<img src="./powerline-bg-color-touch-embed-font.svg"/>

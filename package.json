@@ -1,0 +1,22 @@
+{
+  "name": "svg-readme-experiments",
+  "version": "1.0.0",
+  "description": "> scratch-pad for svg readme experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F1LT3R/svg-readme-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F1LT3R/svg-readme-experiments/issues"
+  },
+  "homepage": "https://github.com/F1LT3R/svg-readme-experiments#readme",
+  "dependencies": {
+    "ansi-to-svg": "^1.4.1"
+  }
+}
