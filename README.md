@@ -71,6 +71,4 @@ Source: https://codepen.io/shshaw/pen/WvYJQP
 
 ## Embedded Image
 
-### Mario Sprite
-
 <img src="./embed-image.svg" width="100px"/>
