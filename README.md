@@ -68,3 +68,9 @@ Attempting to provide font around SVG. WIll not work as SVG is an image tag.
 Source: https://codepen.io/shshaw/pen/WvYJQP
 
 <img src="./mario.svg" width="100px"/>
+
+## Embedded Image
+
+### Mario Sprite
+
+<img src="./embed-image.svg" width="100px"/>
